@@ -1,7 +1,7 @@
 package assert
 
 import (
-	"testing"
+	"fmt"
 )
 
 type mtWorker struct {
